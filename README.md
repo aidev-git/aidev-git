@@ -27,7 +27,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  `Who Am I`
 
 ```python
-class SyedWasifShah:
+class MuhammadAbubakrNaeem:
     name     = "Muhammad Abubakr Naeem"
     role     = "AI Engineer · Agentic Systems & Automation"
     location = "Fords, NJ"
@@ -62,6 +62,12 @@ AI video generation platform that turns a product link, prompt, or clip into UGC
 - 🎭 AI avatar/creator selection with talking-avatar lip-sync and face-swap generation
 - 🌍 Multi-language localization with native voice dubbing and script translation
 - 🧱 `Python` · `Generative Video AI` · `Cloud Rendering Pipeline`
+
+### 🎬 Recly   Desktop App
+Screen recorder and video editor for creators — records your screen, then hands it straight to a full timeline editor without ever leaving the app.
+- 🎯 Auto-detected zoom regions from cursor telemetry, multi-track timeline with annotations and up to 4 audio lanes
+- 📝 Local Whisper transcription for word-level auto-captions with karaoke-style animation — no cloud, no API key
+- 🧱 Electron · React · TypeScript · WebCodecs
 
 ### 📚 Elite Calls — RAG Voice Assistant
 AI-powered RAG voice system for intelligent call handling and real-time knowledge retrieval.
